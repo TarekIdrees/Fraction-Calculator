@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1583431429 source:c:\users\tarek\desktop\problem 2\fraction.cpp
+	"fraction.h"
+	<istream>
+	<ostream>
+
+1583431455 c:\users\tarek\desktop\problem 2\fraction.h
+	<iostream>
+	<istream>
+	<ostream>
+
+1583431509 source:c:\users\tarek\desktop\problem 2\main.cpp
+	<iostream>
+	"fraction.h"
+
+1583441817 source:e:\f\thesnak\bioinformatics\year 2 -term 2\data structures\assignment\assignment 1\problem 2\main.cpp
+	<iostream>
+	"fraction.h"
+
+1583441953 e:\f\thesnak\bioinformatics\year 2 -term 2\data structures\assignment\assignment 1\problem 2\fraction.h
+	<iostream>
+	<istream>
+	<ostream>
+	<cstdlib>
+
+1583442251 source:e:\f\thesnak\bioinformatics\year 2 -term 2\data structures\assignment\assignment 1\problem 2\fraction.cpp
+	"fraction.h"
+	<cstdlib>
+	<istream>
+	<ostream>
+
+1584048042 source:c:\users\tarek\downloads\problem 2\fraction.cpp
+	"fraction.h"
+	<cstdlib>
+	<istream>
+	<ostream>
+
+1583441953 c:\users\tarek\downloads\problem 2\fraction.h
+	<iostream>
+	<istream>
+	<ostream>
+	<cstdlib>
+
+1583451322 source:c:\users\tarek\downloads\problem 2\main.cpp
+	<iostream>
+	"fraction.h"
+
+1584099148 source:c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\fraction.cpp
+	"fraction.h"
+	<cstdlib>
+	<istream>
+	<ostream>
+
+1583441953 c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\fraction.h
+	<iostream>
+	<istream>
+	<ostream>
+	<cstdlib>
+
+1583451322 source:c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\main.cpp
+	<iostream>
+	"fraction.h"
+
+1584099148 source:e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\fraction.cpp
+	"fraction.h"
+	<cstdlib>
+	<istream>
+	<ostream>
+
+1583441953 e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\fraction.h
+	<iostream>
+	<istream>
+	<ostream>
+	<cstdlib>
+
+1583451322 source:e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 2\main.cpp
+	<iostream>
+	"fraction.h"
+
