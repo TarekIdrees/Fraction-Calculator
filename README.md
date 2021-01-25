@@ -26,20 +26,20 @@
 3- Perform Fraction Multiplication <br>
 4- Exit <br>
 <body>
->> 1       //Addition <br> 
->> 1 / 2  //Num 1  <br>
->> 1 / 4  //Num 2 <br>
-3 / 4     //Output <br>
+>> 1  &nbsp;&nbsp;     //Addition <br> 
+>> 1 / 2  &nbsp;&nbsp;//Num 1  <br>
+>> 1 / 4  &nbsp;&nbsp;//Num 2 <br>
+3 / 4     &nbsp;&nbsp;//Output <br>
 </body>
 
 <br>
 <body>
->> 2  //Substraction <br>
->> 1 / 4  //Num 2  <br>
-1 / 2   //Output <br>
+>> 2  &nbsp;&nbsp;//Substraction <br>
+>> 1 / 4  &nbsp;&nbsp;//Num 2  <br>
+1 / 2   &nbsp;&nbsp;//Output <br>
 </body>
 
 <br>
 <body>
->> 4  //Exit
+>> 4  &nbsp;&nbsp;//Exit
 </body>
